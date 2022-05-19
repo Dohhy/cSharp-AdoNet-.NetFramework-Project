@@ -1,0 +1,10 @@
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Hasta_Kayit\bin\Debug\Hasta_Kayit.exe.config
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Hasta_Kayit\bin\Debug\Hasta_Kayit.exe
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Hasta_Kayit\bin\Debug\Hasta_Kayit.pdb
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Hasta_Kayit\obj\Debug\Hasta_Kayit.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Hasta_Kayit\obj\Debug\Hasta_Kayit.Form1.resources
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Hasta_Kayit\obj\Debug\Hasta_Kayit.Properties.Resources.resources
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Hasta_Kayit\obj\Debug\Hasta_Kayit.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Hasta_Kayit\obj\Debug\Hasta_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Hasta_Kayit\obj\Debug\Hasta_Kayit.exe
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Hasta_Kayit\obj\Debug\Hasta_Kayit.pdb

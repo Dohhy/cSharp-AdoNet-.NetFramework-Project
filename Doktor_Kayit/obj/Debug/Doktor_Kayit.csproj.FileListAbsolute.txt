@@ -1,0 +1,15 @@
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\bin\Debug\Doktor_Kayit.exe.config
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\bin\Debug\Doktor_Kayit.exe
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\bin\Debug\Doktor_Kayit.pdb
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\bin\Debug\EntityFramework.dll
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\bin\Debug\EntityFramework.xml
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\obj\Debug\Doktor_Kayit.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\obj\Debug\Doktor_Kayit.Form1.resources
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\obj\Debug\Doktor_Kayit.Properties.Resources.resources
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\obj\Debug\Doktor_Kayit.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\obj\Debug\Doktor_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\obj\Debug\Doktor_Kayit.csproj.CopyComplete
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\obj\Debug\Doktor_Kayit.exe
+C:\Users\alper\source\repos\Hastane_Takip_Otomasyonu\Doktor_Kayit\obj\Debug\Doktor_Kayit.pdb
